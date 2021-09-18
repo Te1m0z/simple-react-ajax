@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://te1m0z.github.io/csb-bse5m/static/css/main.d13dbe53.chunk.css",
+    "main.js": "https://te1m0z.github.io/csb-bse5m/static/js/main.167e6b28.chunk.js",
+    "main.js.map": "https://te1m0z.github.io/csb-bse5m/static/js/main.167e6b28.chunk.js.map",
+    "runtime-main.js": "https://te1m0z.github.io/csb-bse5m/static/js/runtime-main.ac85419f.js",
+    "runtime-main.js.map": "https://te1m0z.github.io/csb-bse5m/static/js/runtime-main.ac85419f.js.map",
+    "static/js/2.5506770d.chunk.js": "https://te1m0z.github.io/csb-bse5m/static/js/2.5506770d.chunk.js",
+    "static/js/2.5506770d.chunk.js.map": "https://te1m0z.github.io/csb-bse5m/static/js/2.5506770d.chunk.js.map",
+    "index.html": "https://te1m0z.github.io/csb-bse5m/index.html",
+    "static/css/main.d13dbe53.chunk.css.map": "https://te1m0z.github.io/csb-bse5m/static/css/main.d13dbe53.chunk.css.map",
+    "static/js/2.5506770d.chunk.js.LICENSE.txt": "https://te1m0z.github.io/csb-bse5m/static/js/2.5506770d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac85419f.js",
+    "static/js/2.5506770d.chunk.js",
+    "static/css/main.d13dbe53.chunk.css",
+    "static/js/main.167e6b28.chunk.js"
+  ]
+}
